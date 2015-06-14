@@ -5,3 +5,4 @@ As it is unlikely I will change these files, I'm leaving them as such.
 Documents starting 06-14-2015 should be in text based formats.
 
 Prelim - contains files from my prelim, note version control files
+Presentations - contains files from presentations given for MDTP Seminars
