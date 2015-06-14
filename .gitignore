@@ -1,3 +1,4 @@
 #Ignore image files in prelim
 Prelim/*.jpg
 Prelim/*.png
+Prelim/*.ai
