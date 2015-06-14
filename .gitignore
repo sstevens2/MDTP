@@ -2,3 +2,6 @@
 Prelim/*.jpg
 Prelim/*.png
 Prelim/*.ai
+
+#files to ignore from 1YCM
+1YCM/*.png
