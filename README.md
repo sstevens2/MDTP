@@ -7,3 +7,4 @@ Documents starting 06-14-2015 should be in text based formats.
 * Prelim - contains files from my prelim, note pre-version control files
 * Presentations - contains files from presentations given for MDTP Seminars
 * 1YCM - contains files from my first year committee Meeting, note pre-version control files
+* 3YCM - contains files from my third year committee meeting
