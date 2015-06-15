@@ -23,9 +23,10 @@ Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2
 MoMiEE Python Study Group - Started Dec. 2014 - Chair
  - Plan and facilitate our bi-weekly meetings.
 
-Data Carpentry Hack-a-thon - March 2014
+Data Carpentry Hack-a-thon - Mar. 2014
  - Helped to create instructional material for a genomics workshop  
 
-## Committees and Outreach ?
+## Committees and Outreach
 MDTP Recruiting committee 2014-2015
-Nuestro Mundo Science Night Volunteer
+Illinois Mathematics and Science Academy Intersession Instructor - Bioinformatics Basics, Microbial Evolution and Ecology - Jan. 2015
+Nuestro Mundo Science Night Volunteer - Apr. 2015
