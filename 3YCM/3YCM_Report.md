@@ -10,8 +10,8 @@ Meeting: July 8th, 2015 in MSB 5503
 - Genome announcements
 
 ## Oral Presentations
-- ISME 2014
-- SAME 2015
+"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea
+"Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics." 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden 
 
 ## Professional Development
 Software Carpentry Instructor Training - May 2015
@@ -20,7 +20,7 @@ Software Carpentry Instructor Training - May 2015
 Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2014 - Co-chair
   - Plan and facilitate our monthly meetings, organize our webpage, and started a biweekly Python study group.
 
-MoMiEE Python Study Group - Started Dec. 2014 - Chair
+MoMiEE Python Study Group - Started Dec. 2014 Chair
  - Plan and facilitate our bi-weekly meetings.
 
 Data Carpentry Hack-a-thon - Mar. 2014
