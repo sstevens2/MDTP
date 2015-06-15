@@ -33,6 +33,6 @@ JGI UGM?, JGI MGM? Raper Symposium 2013?, SciMed GRS 2013?
  - Helped to create instructional material for a genomics workshop  
 
 ## Committees and Outreach
-- MDTP Recruiting committee 2014-2015
+- MDTP Recruiting Committee 2014-2015
 - Illinois Mathematics and Science - Academy Intersession Instructor - Bioinformatics Basics, Microbial Evolution and Ecology - Jan. 2015
 - Nuestro Mundo Science Night Volunteer - Apr. 2015
