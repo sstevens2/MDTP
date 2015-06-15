@@ -10,7 +10,7 @@ Meeting: July 8th, 2015 in MSB 5503
 - Genome announcements
 
 ## Oral Presentations
-"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea   
+"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea
 "Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics." 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden
 
 ## Poster Presentations
