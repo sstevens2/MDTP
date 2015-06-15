@@ -2,7 +2,7 @@ Title: 3YCM_report
 Author: Sarah Stevens  
 
 # Third Year Committee Report
-Sarah Stevens, McMahon Lab
+Sarah Stevens, McMahon Lab  
 Meeting: July 8th, 2015 in MSB 5503
 
 ## Research Progress
