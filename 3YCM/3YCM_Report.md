@@ -27,5 +27,5 @@ Data Carpentry Hack-a-thon - March 2014
  - Helped to create instructional material for a genomics workshop  
 
 ## Committees and Outreach ?
-- MDTP Recruiting committee
-- Nuestro Mundo Science Night
+MDTP Recruiting committee 2014-2015
+Nuestro Mundo Science Night Volunteer
