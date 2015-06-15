@@ -14,10 +14,10 @@ Meeting: July 8th, 2015 in MSB 5503
 "Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics." 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden
 
 ## Poster Presentations
-ISME
-Microbial Population Biology Gordon Conference
-SciMed GRS Poster Session 2014
-JGI UGM?, JGI MGM? Raper Symposium 2013?, SciMed GRS 2013?
+ISME  
+Microbial Population Biology Gordon Conference  
+SciMed GRS Poster Session 2014  
+JGI UGM?, JGI MGM? Raper Symposium 2013?, SciMed GRS 2013?  
 
 ## Professional Development
 - Software Carpentry Instructor Training - May 2015
