@@ -3,6 +3,12 @@ Sarah Stevens, McMahon Lab
 Meeting: July 8th, 2015 in MSB 5503
 
 ## Research Progress
+I currently have a manuscript submitted <!--- add link, reference --> on the results of my analysis of 30 genomes from metagenomes(GFMs).
+I mapped the reads from our metagenomic time series of Trout Bog to the GFMs.  From the mapping I was able to extract coverage and single nucleotide polymorphism(SNP) data through time.
+We found evidence for both genome-wide and gene-specific sweeps depending on the sequence-discrete population investigated. <!--- more detail? -->  
+I am also currently working on a manuscript concerning the population dynamics of the ubiquitous and abundant freshwater bacterium acI.  We have 14 single cell genomes(SAGs) from this clade, representing 3 lakes and X tribes.  Since these genomes come from a single cell and not an assembly of many cells, like the GFMs, we shredded the genomes and mapped them against each other in order to understand how their relationships would hold up in our metagenomic time series.  We found that SAGs from different tribes do not map well to each other.  When we mapped reads from the metagenomic time series of Mendota, we found that only SAGs colleted from the same lake were representive of the populations in the lake.  We also found that members of the same tribe represent ecologically distinct populations in the lake.  <!--- Something about the gene patterns through time and coverage differences -->  
+<!--- Section on the LD12's and population expansion etc. -->
+
 
 ## Publications
 - GFM paper
@@ -10,7 +16,7 @@ Meeting: July 8th, 2015 in MSB 5503
 - Genome announcements
 
 ## Oral Presentations
-"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea   
+"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea  
 "Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics." 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden
 
 ## Poster Presentations
