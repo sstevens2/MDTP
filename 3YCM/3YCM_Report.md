@@ -9,10 +9,9 @@ We found evidence for both genome-wide and gene-specific sweeps depending on the
 I am also currently working on a manuscript concerning the population dynamics of the ubiquitous and abundant freshwater bacterium acI.  We have 14 single cell genomes(SAGs) from this clade, representing 3 lakes and X tribes.  Since these genomes come from a single cell and not an assembly of many cells, like the GFMs, we shredded the genomes and mapped them against each other in order to understand how their relationships would hold up in our metagenomic time series.  We found that SAGs from different tribes do not map well to each other.  When we mapped reads from the metagenomic time series of Mendota, we found that only SAGs colleted from the same lake were representive of the populations in the lake.  We also found that members of the same tribe represent ecologically distinct populations in the lake.  <!--- Something about the gene patterns through time and coverage differences -->  
 <!--- Section on the LD12's and population expansion etc. -->
 
-
 ## Publications
-- GFM paper
-- acI paper
+Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_submitted_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ^\* Equal contributors^
+Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserman, B., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep_). Genetic populations of abundant and uncultivated freshwater actinobacteria inferred from single cell genomes and metagenomes. ^\* Equal contributors^
 - Genome announcements
 
 ## Oral Presentations
