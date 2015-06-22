@@ -17,13 +17,13 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserm
 **Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGS_). Freshwater GFMs and SAGs from the Betaproteobacteria lineage betIV.  
 
 ## Oral Presentations
-"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea  
+"Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea  [https://goo.gl/6iunz0](https://goo.gl/6iunz0)
 "Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics." 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden
 
 ## Poster Presentations
-ISME  
-Microbial Population Biology Gordon Conference  
-SciMed GRS Poster Session 2014  
+"Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)
+"Time-resolved Metagenomics Reveals Population Expansion and Contraction in Freshwater Bacteria." Gordon Research Conference on Microbial Population Biology
+"Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes." SciMed GRS Poster Session 2014  
 JGI UGM?, JGI MGM? Raper Symposium 2013?, SciMed GRS 2013?  
 
 ## Professional Development
