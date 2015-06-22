@@ -10,7 +10,7 @@ I am also currently working on a manuscript concerning the population dynamics o
 <!--- Section on the LD12's and population expansion etc. -->
 
 ## Publications
-Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_submitted_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ^\*Equal\ contributors^   
+Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_submitted_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ^\*Equal\ contributors^
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserman, B., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep_). Genetic populations of abundant and uncultivated freshwater actinobacteria inferred from single cell genomes and metagenomes. ^\*Equal\ contributors^  
 **Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in_prep_). Freshwater GFMs and SAGs from the betI lineage.  <!--- Need to talk to Trina about name order here -->
 **Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in_prep_). Freshwater GFMs and SAGs from the BetII lineage.  <!--- Need to talk to Trina about name order here -->
@@ -27,14 +27,14 @@ SciMed GRS Poster Session 2014
 JGI UGM?, JGI MGM? Raper Symposium 2013?, SciMed GRS 2013?  
 
 ## Professional Development
-+ Software Carpentry Instructor Training - May 2015
-  - Helped teach two workshops on campus and hope to instruct more this year.
-+ Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2014 - Co-chair
-  - Plan and facilitate our monthly meetings, organize our webpage, and started a biweekly Python study group.
-+ MoMiEE Python Study Group - Started Dec. 2014 Chair
- - Plan and facilitate our bi-weekly meetings.  
-+ Data Carpentry Hack-a-thon - Mar. 2014
- - Helped to create instructional material for a genomics workshop  
+* Software Carpentry Instructor Training - May 2015
+    + Helped teach two workshops on campus and hope to instruct more this year.
+* Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2014 - Co-chair
+    + Plan and facilitate our monthly meetings, organize our webpage, and started a biweekly Python study group.
+* MoMiEE Python Study Group - Started Dec. 2014 - Chair
+    + Plan and facilitate our bi-weekly meetings.
+* Data Carpentry Hack-a-thon - Mar. 2014
+    + Helped to create instructional material for a genomics workshop
 
 ## Committees and Outreach
 + MDTP Recruiting Committee 2014-2015
