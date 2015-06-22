@@ -12,9 +12,9 @@ I am also currently working on a manuscript concerning the population dynamics o
 ## Publications
 Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_submitted to ISMEJ_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ^\*Equal\ contributors^  
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserman, B., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for ISMEJ_). Genetic populations of abundant and uncultivated freshwater actinobacteria inferred from single cell genomes and metagenomes. ^\*Equal\ contributors^  
-**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGs_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betI.  
-**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGs_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betII.  
-**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGs_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betIV.  
+**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGS_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betI.  
+**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGS_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betII.  
+**Stevens, S. L. R.**, Hamilton, J. J., McMahon, K. D. (_in prep for SIGS_). Freshwater GFMs and SAGs from the Betaproteobacterial lineage betIV.  
 
 ## Oral Presentations
 "Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics." 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea  
