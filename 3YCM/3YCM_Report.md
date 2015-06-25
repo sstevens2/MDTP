@@ -21,8 +21,8 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserm
 
 ## Poster Presentations
 **Stevens, S. L. R.**, Bendall, M. L., … Mcmahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)  
+**Stevens, S. L. R.**, Bendall, M. L., … Mcmahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. SciMed GRS Poster Session 2014. Sept. 03, 2014. Madison, WI  
 **Stevens, S. L. R.**, Garcia, S. Stepanauskas, R. Bertilsson, S. Malmstrom, R. R. McMahon, K. D. Time-resolved Metagenomics Reveals Population Expansion and Contraction in Freshwater Bacteria. Gordon Research Conference on Microbial Population Biology. August 2015.  
-"Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes." SciMed GRS Poster Session 2014. Sept. 03, 2014. Madison, WI
 
 ## Professional Development
 * Software Carpentry Instructor Training - May 2015
