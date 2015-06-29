@@ -1,6 +1,7 @@
 # Third Year Committee Report
 Sarah Stevens, McMahon Lab  
-Meeting: July 8th, 2015 in MSB 5503  
+Meeting: July 8th, 2015 in MSB 5503
+
 ## Research Progress
 Over the past year I have worked on tracking a set of thirty sequence-discrete populations from Trout Bog, as they are represented by genomes assembled from metagenomes(GFMs), using 63 metagenomes from 6 of years. I called single nucleotide polymorphisms (SNPs) and looked for genes gained or lost by the populations.  One genome showed a genome-wide sweep of diversity through the time series.  Other genomes show evidence of past gene-sweeps, regions of statistically significant low diversity.  From these results, we have propose that diversity within different co-occuring populations may be controlled by different mechanisms(recombintaiton vs. selection).  I currently have a manuscript submitted to ISMEJ on the results of this analysis.  
 
