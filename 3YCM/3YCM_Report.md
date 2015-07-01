@@ -14,6 +14,8 @@ I continue to be interested in discerning the forces shaping wild bacterial popu
 
 *Are all populations sequence-discrete?  What do non-seq-discrete groups look like? How does ANI structure of sequence-discrete populations compare between different lineages?* Most of the populations we have studied must be sequence-discrete in order to assemble into reference genomes from metagenomes.  One of my next goals is to investigate and compare population structures using references not assembled from communities.  Using both our SAGs and our metagenomes, as well as other marine and soil datasets of metagenomes paired with SAGs and sequenced fosmids, I will investigate population structure.  I am interested to see if I can find a population that does not fit the sequence-discrete pattern.  I have found some preliminary evidence that the LD12 and acTH1 lineages have different structures, in our freshwater datasets.  Along the same lines, I would like to quantify how the population structure, using ANI, is different for different lineages.
 
+\newpage
+
 ### Publications
 Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_submitted to ISMEJ_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ^\*Equal\ contributors^  
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserman, B., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for ISMEJ_). Genetic populations of abundant and uncultivated freshwater actinobacteria inferred from single cell genomes and metagenomes. ^\*Equal\ contributors^  
@@ -32,13 +34,9 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserm
 
 ### Professional Development
 * Software Carpentry Instructor Training - May 2015
-    + Helped teach two workshops on campus and hope to instruct more this year.
 * Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2014 - Co-chair
-    + Plan and facilitate our monthly meetings, organize our webpage, and started a biweekly Python study group.
 * MoMiEE Python Study Group - Started Dec. 2014 - Chair
-    + Plan and facilitate our bi-weekly meetings.
 * Data Carpentry Hack-a-thon - Mar. 2014
-    + Helped to create instructional material for a genomics workshop
 
 ### Committees and Outreach
 + MDTP Recruiting Committee 2014-2015
