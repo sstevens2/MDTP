@@ -36,7 +36,7 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Oyserm
 * Software Carpentry Instructor Training - May 2015
 * Molecular Microbial Ecology and Evolution(MoMiEE) support group - Started Nov. 2014 - Co-chair
 * MoMiEE Python Study Group - Started Dec. 2014 - Chair
-* Data Carpentry Hack-a-thon - Mar. 2014
+* Data Carpentry Hack-a-thon - Mar. 2015
 
 ### Committees and Outreach
 + MDTP Recruiting Committee 2014-2015
