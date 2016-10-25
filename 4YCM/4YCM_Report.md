@@ -3,7 +3,8 @@ Sarah Stevens, McMahon Lab
 Meeting: October 27th, 2015 in MSB 6503  
 
 ### Research Progress
-The manuscript I submitted last year has been published in ISMEJ.  This work shows evidence for both of the two major models of bacterial speciation by tracking single-nucleotide variants in populations of bacteria using 30 Metagenome-assembled (reference) genomes (MAGs) and a metagenomic timeseries containing 63 samples over 6 years.
+The manuscript I submitted last year has been published in ISMEJ.
+This work shows evidence for both of the two major models of bacterial speciation by tracking single-nucleotide variants in populations of bacteria using 30 metagenome-assembled genomes (MAGs) and a metagenomic timeseries containing 63 samples over 6 years.
 We found that one population showed a genome-wide loss of diversity where others had seen a reduction in diversity for only a particular region of the genome.
 This suggests that co-existing populations in the lake have a high selection to recombination ratio where others have a low selection to recombination ratio.  
 
