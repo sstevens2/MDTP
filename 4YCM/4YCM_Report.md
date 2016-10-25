@@ -47,7 +47,3 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepan
 * ComBEE Python Study Group - Started Dec. 2014
 * ComBEE R Study Group - Started Fall 2015
 
-### Committees and Outreach
-+ MDTP Steering Committee - 2015-2016
-+ WI Science Fest Volunteer - McMahon Lab "Build a mini-lake" booth - Fall 2015
-
