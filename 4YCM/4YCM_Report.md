@@ -25,9 +25,9 @@ I continue to be interested in discerning the forces shaping wild bacterial popu
 \newpage
 
 ### Publications
-Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:[http://dx.doi.org/10.1038/ismej.2015.241](http://dx.doi.org/10.1038/ismej.2015.241) **featured article**  
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for Nature Communications_). Contrasting patterns of genome-level diversity across distinct co-occurring populations. doi:[http://dx.doi.org/10.1101/080168](http://dx.doi.org/10.1101/080168)  
-^\*Equal\ contributors^ 
+Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:[http://dx.doi.org/10.1038/ismej.2015.241](http://dx.doi.org/10.1038/ismej.2015.241) **featured article**  
+^\*Equal\ contributors^
 
 ### Oral Presentations
 **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., ...  McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI. [https://goo.gl/0ge2LZ](https://goo.gl/0ge2LZ)  
@@ -37,13 +37,13 @@ Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepan
 ### Poster Presentations
 **Stevens, S. L. R.**, Garcia, S. L. ...  McMahon, K. D. Contrasting patterns of genome-level diversity across distinct co-occurring populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [https://goo.gl/6iunz0](https://goo.gl/6iunz0)  
 **Stevens, S. L. R.**, Garcia, S. L. ...  McMahon, K. D. Tracking distinct freshwater populations through time by mapping metagenomes to single-cell genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [https://goo.gl/ShUQVn](https://goo.gl/ShUQVn)  
-  
+
 
 ### Professional Development
 * Software/Data Carpentry
     + Taught 4 Software Carpentry Workshops (2 on-campus, 2 off-campus)
     + Helped with 2 Data Carpentry Workshops on-campus
+    + Helped with Instructor Training on-campus
 * Computational Biology, Ecology, and Evolution(ComBEE) support group - Started Nov. 2014
 * ComBEE Python Study Group - Started Dec. 2014
 * ComBEE R Study Group - Started Fall 2015
-
