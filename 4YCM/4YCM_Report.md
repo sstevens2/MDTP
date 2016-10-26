@@ -42,8 +42,8 @@ I will also look for evidence of a barrier to recombination between these allopa
 
 
 ### Publications
-Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for Nature Communications_). Contrasting patterns of genome-level diversity across distinct co-occurring populations. doi:[http://dx.doi.org/10.1101/080168](http://dx.doi.org/10.1101/080168)  
-Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:[http://dx.doi.org/10.1038/ismej.2015.241](http://dx.doi.org/10.1038/ismej.2015.241) **featured article**  
+Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for Nature Communications_). Contrasting patterns of genome-level diversity across distinct co-occurring populations. doi:[10.1101/080168](http://dx.doi.org/10.1101/080168)  
+Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:[10.1038/ismej.2015.241](http://dx.doi.org/10.1038/ismej.2015.241) **featured article**  
 ^\*Equal\ contributors^
 
 ### Oral Presentations
