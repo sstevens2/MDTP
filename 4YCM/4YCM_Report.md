@@ -25,15 +25,16 @@ I continue to be interested in discerning the forces shaping wild bacterial popu
 *Does selection affect homologs of the same gene differently?  Which traits are under strong selection?*
 First I will identify the homologous genes in the reference MAGs and SAGs using BLAST and clustering.
 Then I will mapping the metagenomic reads from the same lake back the reference genomes and determine the sequence-discrete populations each reference belongs to based on its coverage discontinuity.
-For each of these populations and their genes, I will calculate the relative abundance, call single nucleotide variants, and calculate the degree of selection. <!-- FINISH THIS -->
+I will then calculate a metric of selection for within the population and between the populations. <!-- FINISH THIS -->
 
-*Are there related sequence-discrete populations in TB and CB?  How closely related are they?  Do they share a common gene pool?*
-We can now bin MAG's from Crystal Bog (CB), which is of similar location and trophic status to Trout Bog (TB).
+*Are there related sequence-discrete populations in TB and CB?  How closely related are they?  Do they share a common gene pool?  Are there genes present in one lake but not the other for these closely related populations?*
+We now also have Crystal Bog metagenomes and can bin MAG's from Crystal Bog (CB), which is of similar location and trophic status to Trout Bog (TB), where our previous MAGs were from.
 I will bin MAGs from the CB assemblies and use new techniques to get more MAGs from the TB assemblies.
-With these genomes, I will ask if there are related genomes and how similar they are across their genomes.
+With these genomes, I will search for very closely related genomes and quantify how similar they are across their genomes.
 For genomes that are very closely related (>95% nucleotide identity across their whole genomes), I will also investigate if the associated populations share a common gene pool between the two lakes.
-Using the cross mapping I will identify if there are regions or genes that are present in only one of the lakes and if the diversity of shared genes is different between the two lakes.
- <!--From the acI SAGs we saw that reference genomes collected from different lakes do not recruit metagenomic reads with high ANI.  I will look at the estimated recombination between the... Geographically isolated or environments selecting for different strains, or vice versa   if they are isolated you would expect to see different Dn variation, even if the similar conditions are selecting for the same -->
+By mapping the metagenomes from one lake to MAGs from the other, I will identify if there are regions or genes that are present in only one of the lakes and if the diversity of shared genes is different between the two lakes.
+I will look for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
+I will also look to see if there is evidence of a barrier to recombination between these allopatric populations.
 
 \newpage
 
