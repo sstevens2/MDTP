@@ -2,8 +2,9 @@
 Sarah Stevens, McMahon Lab  
 Meeting: October 27th, 2015 in MSB 6503  
 
-<!-- BIG PICTURE INTRO, couple sentences about learning bacterial populations diversify, understand the forces shaping population structure,
-lake as a model system since we have a timeseries to investigate this -->
+I am interested in understanding how bacterial populations diversify and form species.
+My work aims to better understand the forces that shape bacterial population structure by using the lakes as a model system.
+The McMahon Lab metagenomic time series of many lakes is an ideal dataset for investigating how bacterial populations change through time.
 
 ### Research Progress
 The manuscript I submitted last year has been published in ISMEJ.
