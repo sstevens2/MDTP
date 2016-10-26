@@ -23,19 +23,22 @@ The manuscripts for both of these projects are attached to this report.
 #### New Questions
 I continue to be interested in discerning the forces shaping wild bacterial populations and would like to turn my focus from the whole genomes of populations to their gene content.
 
-*Does selection affect homologs of the same gene differently?  Which traits are under strong selection?*
-First I will identify the homologous genes in the reference MAGs and SAGs using BLAST and clustering.
-Then I will map the metagenomic reads from the same lake back to the reference genomes and identify the sequence-discrete populations each reference belongs to based on its coverage discontinuity.
-I will then calculate a metric of selection for within the population and between the populations. <!-- FINISH THIS -->
+*How does selection differ when you look at it within vs between sequence-discrete populations?  Does selection act differently on homologous genes shared by different populations?  Which traits are under strong selection?*
+I plan to compare how calculations of selection across environments (very broad scale) compares with calculations of selection between and within (very fine scale) sequence-discrete populations in the same environment.
+I will search for metrics of selection which are appropriate for my dataset and be comparable across scale.
+Once these metrics are calculated, I will identify homologous genes in different populations and search for patterns of selection among the homologs.
+I expect that some genes may be under strong selection, regardless of the population they are in.
+Finding such genes should identify traits under strong selection in each lake.
 
-*Are there related sequence-discrete populations in TB and CB?  How closely related are they?  Do they share a common gene pool?  Are there genes present in one lake but not the other for these closely related populations?*
+
+*Are there related sequence-discrete populations in TB and CB?  How closely related are they?  Do they share a common gene pool?  Are there genes present in one lake but not the other for these closely related populations? Is there an ecological or physical barrier to recombination between these two lakes?*
 We now also have Crystal Bog metagenomes and can bin MAG's from Crystal Bog (CB), which is of similar location and trophic status to Trout Bog (TB), where our previous MAGs were from.
 I will bin MAGs from the CB assemblies and use new techniques to get more MAGs from the TB assemblies.
 With these genomes, I will search for very closely related genomes and quantify how similar they are across their genomes.
 For genomes that are very closely related (>95% nucleotide identity across their shared genome content), I will also investigate if the associated populations share a common gene pool between the two lakes.
 By mapping the metagenomes from one lake to MAGs from the other, I will identify if there are regions or genes that are present in only one of the lakes and if the diversity of shared genes is different between the two lakes.
-I will look for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
-I will also look to see if there is evidence of a barrier to recombination between these allopatric populations.
+I will search for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
+I will also look for evidence of a barrier to recombination between these allopatric populations.
 
 \newpage
 
