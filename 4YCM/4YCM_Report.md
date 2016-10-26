@@ -3,8 +3,8 @@ Sarah Stevens, McMahon Lab
 Meeting: October 27th, 2015 in MSB 6503  
 
 I am interested in understanding how bacterial populations diversify and form species.
-My work aims to better understand the forces that shape bacterial population structure by using the lakes as a model system.
-The McMahon Lab metagenomic time series of many lakes is an ideal dataset for investigating how bacterial populations change through time.
+My work aims to better understand the forces that shape bacterial population structure using the lakes as a model system.
+The McMahon Lab metagenomic time series of many lakes is an ideal dataset for investigating how wild bacterial populations change through time.
 
 ### Research Progress
 The manuscript I submitted last year has been published in ISMEJ.
@@ -14,7 +14,7 @@ This suggests that co-existing populations in the lake have a high selection to 
 
 In the past year, I have also worked on the population dynamics of many dominant freshwater bacteria, focusing on two groups (which represent roughly family level) for which we have multiple single-amplified genomes (SAGs) and sequence-discrete populations.
 Genetically distinct populations within roughly species level groups of the acI actinobacterial lineage living in the same lake had different seasonal abundance patterns, suggesting these populations were also ecologically distinct.
-In contrast, sympatric LD12 populations were much less genetically differentiated and had similar temporal abundance patterns. This suggests that within one lake, some freshwater lineages harbor genetically discrete (but still closely related) and ecologically distinct populations, while other lineages are composed of less differentiated populations with overlapping niches.
+In contrast, sympatric LD12 alphaproteobacterial populations were much less genetically differentiated and had similar temporal abundance patterns. This suggests that within one lake, some freshwater lineages harbor genetically discrete (but still closely related) and ecologically distinct populations, while other lineages are composed of less differentiated populations with overlapping niches.
 I have submitted the manuscript for this project on bioRxiv, a biology preprint server and it will soon be submitted to Nature Communications.  
 
 The manuscripts for both of these projects are attached to this report.
@@ -25,14 +25,14 @@ I continue to be interested in discerning the forces shaping wild bacterial popu
 
 *Does selection affect homologs of the same gene differently?  Which traits are under strong selection?*
 First I will identify the homologous genes in the reference MAGs and SAGs using BLAST and clustering.
-Then I will mapping the metagenomic reads from the same lake back the reference genomes and determine the sequence-discrete populations each reference belongs to based on its coverage discontinuity.
+Then I will map the metagenomic reads from the same lake back to the reference genomes and identify the sequence-discrete populations each reference belongs to based on its coverage discontinuity.
 I will then calculate a metric of selection for within the population and between the populations. <!-- FINISH THIS -->
 
 *Are there related sequence-discrete populations in TB and CB?  How closely related are they?  Do they share a common gene pool?  Are there genes present in one lake but not the other for these closely related populations?*
 We now also have Crystal Bog metagenomes and can bin MAG's from Crystal Bog (CB), which is of similar location and trophic status to Trout Bog (TB), where our previous MAGs were from.
 I will bin MAGs from the CB assemblies and use new techniques to get more MAGs from the TB assemblies.
 With these genomes, I will search for very closely related genomes and quantify how similar they are across their genomes.
-For genomes that are very closely related (>95% nucleotide identity across their whole genomes), I will also investigate if the associated populations share a common gene pool between the two lakes.
+For genomes that are very closely related (>95% nucleotide identity across their shared genome content), I will also investigate if the associated populations share a common gene pool between the two lakes.
 By mapping the metagenomes from one lake to MAGs from the other, I will identify if there are regions or genes that are present in only one of the lakes and if the diversity of shared genes is different between the two lakes.
 I will look for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
 I will also look to see if there is evidence of a barrier to recombination between these allopatric populations.
@@ -62,3 +62,8 @@ Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek
 * Computational Biology, Ecology, and Evolution(ComBEE) support group - Started Nov. 2014
 * ComBEE Python Study Group - Started Dec. 2014
 * ComBEE R Study Group - Started Fall 2015
+* MDTP Steering Committee - 2015-2016
+
+### Awards
+* UW-Madison Dept. of  Bacteriology Betley-Allen Fellowship - 2016-2017
+* UW-Madison Graduate School Travel Award - Fall 2015
