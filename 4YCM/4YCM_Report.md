@@ -40,7 +40,6 @@ By mapping the metagenomes from one lake to MAGs from the other, I will identify
 I will search for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
 I will also look for evidence of a barrier to recombination between these allopatric populations.
 
-\newpage
 
 ### Publications
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_in prep for Nature Communications_). Contrasting patterns of genome-level diversity across distinct co-occurring populations. doi:[http://dx.doi.org/10.1101/080168](http://dx.doi.org/10.1101/080168)  
