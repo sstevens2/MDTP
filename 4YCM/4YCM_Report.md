@@ -23,7 +23,7 @@ The manuscripts for both of these projects are attached to this report.
 #### New Questions
 I continue to be interested in discerning the forces shaping wild bacterial populations and would like to turn my focus from the whole genomes of populations to their gene content.
 
-*How does selection differ when you look at it within vs between sequence-discrete populations?  Does selection act differently on homologous genes shared by different populations?  Which traits are under strong selection?*
+*How does selection differ within vs between sequence-discrete populations?  Does selection act differently on homologous genes shared by different populations?  Which traits are under strong selection?*
 I plan to compare how calculations of selection across environments (very broad scale) compares with calculations of selection between and within (very fine scale) sequence-discrete populations in the same environment.
 I will search for metrics of selection which are appropriate for my dataset and be comparable across scale.
 Once these metrics are calculated, I will identify homologous genes in different populations and search for patterns of selection among the homologs.
