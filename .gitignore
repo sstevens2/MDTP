@@ -1,7 +1,4 @@
-#Ignore image files in prelim
-2YCM_Prelim/*.jpg
-2YCM_Prelim/*.png
-2YCM_Prelim/*.ai
-
-#files to ignore from 1YCM
-1YCM/*.png
+#Ignore image files
+*.jpg
+*.png
+*.ai
