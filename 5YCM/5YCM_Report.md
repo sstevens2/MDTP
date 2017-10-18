@@ -1,13 +1,8 @@
-
-<!-- FIX CITATIONS!!!
-
 ---
-bibliography: bibliography.bibtex
+bibliography: bibliography.bib
 link-citations: true
 csl: apa2.csl
 ---
-
--->
 
 
 ## Fourth Year Committee Report
@@ -28,21 +23,27 @@ To understand the forces driving differentiation and diversification in wild bac
 
 ![Diagram from Sampling to Bins](images/20171006-experimental_plan_diagram_noSDP.jpg)
 
-*Questions: Are there related sequence-discrete populations in bog lakes (Crystal Bog, Mary Lake, Trout Bog)?  How closely related are they?  Do they share a common gene pool?  Are there genes present in one lake but not the other for these closely related populations? Are these genepools separated? If so, how did these genes evolve differently between the two lakes?*
-
-I have been working on getting bins for Crystal Bog and Mary Lake over the past year.
-My current challenges are dereplicating them, since we likely have recovered the same genomes from multiple timepoints, and classifying them, as past methods did not scale up.
+I have been working on binnning genomes from Crystal Bog and Mary Lake over the past year.
+One of my current challenges is de-replicating these bins, since we likely have recovered the same genomes from multiple timepoints.  Additionally I am working on methods to classify them, as past methods did not scale up.
 I will also bin additional genomes from Trout Bog using new assemblies of the individual time points.
-Once I have binned, dereplicated, classified genomes from the three bog lakes I can start comparing genomes within and between lakes.
-With these genomes, I will search for very closely related genomes and quantify how similar they are across their genomes both the percentage and identity of shared genomic content.
-For genomes that share at least 96.5% identity across at least 60% of their genome (species level [@Varghese2015]), I will further investigate what functions are common in shared gene content.
-If there are few shared species between the lakes this analysis could also be done on genomes from the same genus.
-This analysis only addresses shared content that assembled in both lakes.
-I will search for homologs of genes assembled into MAGs in other lakes by mapping the metagenomes from one lake to MAGs from the other.
-Using this method will both identify homologs present in both lakes and calculate the average similarity of these homologs.
-I will search for patterns among the shared or absent genes that may be explained by the different environments of the two lakes.
-I will also look for differences in how the populations evolved by comparing their trees and single nucleotide variants. 
-<!-- Continue work on this section, fleshing it out and increasing clarity -->
+The previously binned genomes from TB were done on a coassembly of all of the timepoints.  
+Binning and assembling each sample separately provides several advantages which I hope will help to recover more MAG reference genomes.
+One such advantage is the lower strain heterogeneity in individual samples which can interfere with assembly.
+Individual assemblies can also better recover genomes from bacteria that were only abundant in one sample but might have been relatively rare in the coassembly which can make assembly difficult.
+Additionally I hope to be able to recover more of the flexible genome by assembling the same organism in different timepoints.
+
+*Questions: Are there ecologically distinct strains/genotypes within previously defined sequence-discrete populations?  What stage of speciation are these distinct strains/genotypes at in their separation? Is there a barrier to recombination between such strains?*
+
+@Shapiro2014 proposed 5 stages of microbial speciation under differing recombination/selection regimes.
+In past work we looked for evidence of the two major models of bacterial speciation using the MAGs binned from Trout Bog [@Bendall].
+We used mapped reads from the metagenomic timeseries back to these MAGs and identified operational taxonomic units(OTUs) by delineating sequence-discrete populations at the percent identity threshold where the coverage dropped off.
+While this method revealed a genome-wide sweep and evidence for past gene-specific sweeps, we could not separate the strains within the sequence-discrete populations since we could not link single nucleotide variants(SNVs) together.
+New statistical methods have been developed [@Quince2017; @Costea; @Nayfach2016] that use models to find linked SNVs and identify haplotypes.
+Using these methods we can identify strains within the sequence discrete populations and look for ecological differentiation and perhaps catching a variety of stages of speciation put forth by [@Shapiro2014].
+In capturing many stages of speciation we hope to better understand the principles of diversification and how sequence discrete populations emerge and separate from one another.
+
+Since we have multiple metagenomic timeseries from isolate lakes this also allows for some study of allopatric speciation.
+
 
 ### New Publications
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_accepted to ISMEJ_). Contrasting patterns of genome-level diversity across distinct co-occurring populations.  
@@ -66,3 +67,6 @@ He, S., **Stevens, S. L. R.**, Chan, L.-K., Bertilsson, S., Glavina del Rio, T.,
 
 ### Awards
 * UW-Madison Dept. of  Bacteriology Travel Award - Spring 2017
+
+
+### References
