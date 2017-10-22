@@ -45,9 +45,10 @@ In capturing many stages of speciation we hope to better understand the principl
 Since we have multiple metagenomic timeseries from isolate lakes this also allows for some study of allopatric speciation.
 
 
-### New Publications
+### Publications
 Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, S., Malmstrom, R.,  McMahon, K. D. (_accepted to ISMEJ_). Contrasting patterns of genome-level diversity across distinct co-occurring populations.  
 He, S., **Stevens, S. L. R.**, Chan, L.-K., Bertilsson, S., Glavina del Rio, T., Tringe, S. G., … McMahon, K. D. (2017). Ecophysiology of Freshwater Verrucomicrobia Inferred from Metagenome-Assembled Genomes. mSphere. doi:[10.1128/mSphere.00277-17](https://doi.org/10.1128/mSphere.00277-17)  
+Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:[10.1038/ismej.2015.241](https://doi.org/10.1038/ismej.2015.241) **featured article**  
 ^\*Equal\ contributors^
 
 
