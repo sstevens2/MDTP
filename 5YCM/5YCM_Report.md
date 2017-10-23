@@ -25,6 +25,8 @@ To understand the forces driving differentiation and diversification in wild bac
 
 ![Stages of microbial speciation under different rates of selection and homologous recombination from @Shapiro2014](images/Shapiro2014_table1.png)
 
+\pagebreak
+
 @Shapiro2014 proposed 5 stages of microbial speciation under differing recombination/selection regimes.
 In past work we looked for evidence of the two major models of bacterial speciation using the MAGs binned from Trout Bog [@Bendall].
 We used mapped reads from the metagenomic timeseries back to these MAGs and identified operational taxonomic units(OTUs) by delineating sequence-discrete populations at the percent identity threshold where coverage dropped off.
@@ -36,10 +38,10 @@ While the stages form a continuum in their differences and may not be precisely 
 I plan to use metaSNV(@Costea) to calculate the F~ST~ value, which is a measure of genome differentation, between genomes as previously adjusted for metagenomics data[@Schloissnig2012].
 Lower F~ST~ values will indicate earlier stages of speciation where the haplotypes are still heavily recombining.
 I can then use the differences between haplotypes (SNVs and flexible gene content) in conjunction with F~ST~ to find differing stages of speciation within sequence-discrete populations.
-In capturing many stages of speciation we hope to better understand the principles of diversification and how sequence discrete populations emerge and separate from one another.
+In capturing many stages of speciation we hope to better understand the principles of diversification and how sequence-discrete populations emerge and separate from one another.
 The results of this 'reverse ecology' approach can also be used to develop hypotheses for future work in the lab about the ecological differences between the haplotypes identified.
 
-![Diagram from Sampling to Bins](images/20171006-experimental_plan_diagram_noSDP.jpg)
+![Diagram from Sampling to Sequence-discrete Populations](images/binning_experimental_plan_diagram_to_mapping.jpg)
 
 I have been working on binnning genomes from Crystal Bog and Mary Lake over the past year.
 One of my current challenges is de-replicating these bins, since we likely have recovered the same genomes from multiple timepoints.  Additionally I am working on methods to classify them, as past methods did not scale up.
@@ -74,5 +76,7 @@ Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek
 
 ### Awards
 * UW-Madison Dept. of  Bacteriology Travel Award - Spring 2017
+
+\pagebreak
 
 ### References
