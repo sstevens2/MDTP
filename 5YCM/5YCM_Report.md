@@ -35,11 +35,11 @@ New statistical methods have been developed [@Quince2017; @Costea; @Nayfach2016]
 Using these methods we can identify strains within the sequence discrete populations and look for ecological differentiation and perhaps catch a variety of stages of speciation put forth by [@Shapiro2014].
 
 While the stages form a continuum in their differences and may not be precisely identified using metagenomes, the level of recombination between strains should give an idea of approximately the stages of speciation.
-I plan to use metaSNV(@Costea) to calculate the F~ST~ value, which is a measure of genome differentation, between genomes as previously adjusted for metagenomics data[@Schloissnig2012].
+I plan to use metaSNV[@Costea] to calculate the F~ST~ value, which is a measure of genome differentiation, as previously adjusted for metagenomics data[@Schloissnig2012] between haplotypes.
 Lower F~ST~ values will indicate earlier stages of speciation where the haplotypes are still heavily recombining.
 I can then use the differences between haplotypes (SNVs and flexible gene content) in conjunction with F~ST~ to find differing stages of speciation within sequence-discrete populations.
-In capturing many stages of speciation we hope to better understand the principles of diversification and how sequence-discrete populations emerge and separate from one another.
-The results of this 'reverse ecology' approach can also be used to develop hypotheses for future work in the lab about the ecological differences between the haplotypes identified.
+By capturing many stages of speciation we hope to better understand the principles of diversification and how sequence-discrete populations emerge and separate from one another.
+The results of this 'reverse ecology' approach can then be used to develop hypotheses for future work in the lab about the ecological differences between the haplotypes identified.
 
 ![Diagram from Sampling to Sequence-discrete Populations](images/binning_experimental_plan_diagram_to_mapping.png)
 
@@ -48,9 +48,9 @@ One of my current challenges is de-replicating these bins, since we likely have 
 I will also bin additional genomes from Trout Bog using new assemblies of the individual time points.
 The previously binned genomes from TB were created from coassembly of all of the timepoints.  
 Binning and assembling each sample separately provides several advantages which I hope will help recover more MAG reference genomes.
-One such advantage is the lower strain heterogeneity in individual samples which can interfere with assembly.
+One advantage is the lower strain heterogeneity in individual samples which can interfere with assembly.
 Individual assemblies can also better recover genomes from bacteria that were only abundant in one sample but might have been relatively rare in the coassembly which can make assembly difficult.
-Additionally I hope to be able to recover more of the flexible genome by assembling the same organism in different timepoints.
+Additionally, I hope to be able to recover more of the flexible genome by assembling the same organism in different timepoints.
 
 
 ### Publications
