@@ -31,6 +31,7 @@ We used mapped reads from the metagenomic timeseries back to these MAGs and iden
 While this method revealed a genome-wide sweep and evidence for past gene-specific sweeps, we could not separate the strains within the sequence-discrete populations since we could not link single nucleotide variants(SNVs) together.
 New statistical methods have been developed [@Quince2017; @Costea; @Nayfach2016] to find linked SNVs and identify haplotypes.
 Using these methods we can identify strains within the sequence discrete populations and look for ecological differentiation and perhaps catch a variety of stages of speciation put forth by [@Shapiro2014].
+
 While the stages form a continuum in their differences and may not be precisely identified using metagenomes, the level of recombination between strains should give an idea of approximately the stages of speciation.
 I plan to use metaSNV(@Costea) to calculate the F~ST~ value, which is a measure of genome differentation, between genomes as previously adjusted for metagenomics data[@Schloissnig2012].
 Lower F~ST~ values will indicate earlier stages of speciation where the haplotypes are still heavily recombining.
