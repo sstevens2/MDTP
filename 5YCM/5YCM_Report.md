@@ -41,7 +41,7 @@ I can then use the differences between haplotypes (SNVs and flexible gene conten
 In capturing many stages of speciation we hope to better understand the principles of diversification and how sequence-discrete populations emerge and separate from one another.
 The results of this 'reverse ecology' approach can also be used to develop hypotheses for future work in the lab about the ecological differences between the haplotypes identified.
 
-![Diagram from Sampling to Sequence-discrete Populations](images/binning_experimental_plan_diagram_to_mapping.jpg)
+![Diagram from Sampling to Sequence-discrete Populations](images/binning_experimental_plan_diagram_to_mapping.png)
 
 I have been working on binnning genomes from Crystal Bog and Mary Lake over the past year.
 One of my current challenges is de-replicating these bins, since we likely have recovered the same genomes from multiple timepoints.  Additionally I am working on methods to classify them, as past methods did not scale up.
